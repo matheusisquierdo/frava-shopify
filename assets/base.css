@@ -2449,7 +2449,6 @@ product-info .loading__spinner:not(.hidden)~*,
 .header__heading {
   margin: 0;
   line-height: 0;
-  background-color: red;
 }
 
 .header>.header__heading-link {
