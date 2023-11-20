@@ -77,8 +77,8 @@
         }
     },
     "order": [
-        "rich_text",
         "collage-0",
+        "rich_text",
         "featured-collection"
     ]
 }
