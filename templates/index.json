@@ -8,6 +8,12 @@
                     "settings": {
                         "collection": "vestidos"
                     }
+                },
+                "collection-2": {
+                    "type": "collection",
+                    "settings": {
+                        "collection": "vestidos"
+                    }
                 }
             },
             "block_order": [
