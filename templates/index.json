@@ -1,5 +1,28 @@
 {
     "sections": {
+        "rich_text": {
+            "type": "rich-text",
+            "blocks": {
+                "heading": {
+                    "type": "heading",
+                    "settings": {
+                        "heading": "Novidades",
+                        "heading_size": "h1"
+                    }
+                }
+            },
+            "block_order": [
+                "heading"
+            ],
+            "settings": {
+                "desktop_content_position": "center",
+                "content_alignment": "center",
+                "color_scheme": "background-1",
+                "full_width": true,
+                "padding_top": 28,
+                "padding_bottom": 12
+            }
+        },
         "collage-0": {
             "type": "collage",
             "blocks": {
@@ -12,12 +35,13 @@
                 "collection-2": {
                     "type": "collection",
                     "settings": {
-                        "collection": "vestidos"
+                        "collection": "saias"
                     }
                 }
             },
             "block_order": [
-                "collection-1"
+                "collection-1",
+                "collection-2"
             ],
             "settings": {
                 "heading": "",
