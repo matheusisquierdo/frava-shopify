@@ -43,10 +43,13 @@
         "template--21471593890076__2b2ab56a-5fa5-4e4f-8e5c-4232a2781846-slide-1",
         "template--21471593890076__2b2ab56a-5fa5-4e4f-8e5c-4232a2781846-slide-2"
       ],
+      "custom_css": [
+        ".slideshow__text{display:none;}"
+      ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "counter",
+        "slide_height": "medium",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
